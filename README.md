@@ -55,14 +55,23 @@ nodes >
 Ate agora esses que foram mostrados vcs colocam nas pastas deles que representei com > como foi mostrado, os debaixo vc coloca na pagina principal do projeto junto com as pastas.
 
     start.lua 
+    
     .gitattributes
+    
     choice.lua
+    
     engine.lua
+    
     game_data.lua
+    
     main.lua
+    
     node_loader.lua
+    
     node.lua
+    
     README.lua
+    
     ultils.lua
 
 ● Depois que tudo estiver no seu devido lugar, através de um editor de comandos como o VS studio e só executar a pasta Main.lua que automaticamente vai funcionar.
