@@ -1,12 +1,12 @@
 # Simulador-De-Aventura-Com-Lua
 Este é um simulador de aventuras que fiz usando Lua e principios de POO, essse desafio foi feito pela plataforma da DIO no curso de Lua para criação de jogos
 
-Esta venção não esta totalmente completa mas esta totalmente funcional, estarei trabalhando no futuro pois gosto de terminar oq começei mas como sou um pouco perfeccionista irei demorar muito, por isso aproveitem basicamente a versão beta do mu jogo enquanto trabalho para fazer uma melhor.
+Esta venção não esta totalmente completa mas esta totalmente funcional, estarei trabalhando no futuro para terminar oq começei mas como sou um pouco perfeccionista irei demorar mais que o esperado kkkkk, por isso aproveitem basicamente a versão beta do meu jogo enquanto trabalho para fazer uma melhor.
 
 
-#Guia de como usar
+# Guia de como usar
 
-● Primeiro você vai ter que fazer o dowload de todos os arquivos do projeto e colocar em seus respectivos lugares como mostra o github.
+● Primeiro você vai ter que fazer o download de todos os arquivos do projeto e colocar em seus respectivos lugares como mostra o github.
 
 libs >
   
